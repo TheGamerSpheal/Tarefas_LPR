@@ -1,0 +1,14 @@
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio5\Jedi\bin\Debug\net9.0\Jedi.exe
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio5\Jedi\bin\Debug\net9.0\Jedi.deps.json
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio5\Jedi\bin\Debug\net9.0\Jedi.runtimeconfig.json
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio5\Jedi\bin\Debug\net9.0\Jedi.dll
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio5\Jedi\bin\Debug\net9.0\Jedi.pdb
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio5\Jedi\obj\Debug\net9.0\Jedi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio5\Jedi\obj\Debug\net9.0\Jedi.AssemblyInfoInputs.cache
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio5\Jedi\obj\Debug\net9.0\Jedi.AssemblyInfo.cs
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio5\Jedi\obj\Debug\net9.0\Jedi.csproj.CoreCompileInputs.cache
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio5\Jedi\obj\Debug\net9.0\Jedi.dll
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio5\Jedi\obj\Debug\net9.0\refint\Jedi.dll
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio5\Jedi\obj\Debug\net9.0\Jedi.pdb
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio5\Jedi\obj\Debug\net9.0\Jedi.genruntimeconfig.cache
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio5\Jedi\obj\Debug\net9.0\ref\Jedi.dll

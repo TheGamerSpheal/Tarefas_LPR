@@ -1,0 +1,14 @@
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio4\Soma\bin\Debug\net9.0\Soma.exe
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio4\Soma\bin\Debug\net9.0\Soma.deps.json
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio4\Soma\bin\Debug\net9.0\Soma.runtimeconfig.json
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio4\Soma\bin\Debug\net9.0\Soma.dll
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio4\Soma\bin\Debug\net9.0\Soma.pdb
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio4\Soma\obj\Debug\net9.0\Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio4\Soma\obj\Debug\net9.0\Soma.AssemblyInfoInputs.cache
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio4\Soma\obj\Debug\net9.0\Soma.AssemblyInfo.cs
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio4\Soma\obj\Debug\net9.0\Soma.csproj.CoreCompileInputs.cache
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio4\Soma\obj\Debug\net9.0\Soma.dll
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio4\Soma\obj\Debug\net9.0\refint\Soma.dll
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio4\Soma\obj\Debug\net9.0\Soma.pdb
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio4\Soma\obj\Debug\net9.0\Soma.genruntimeconfig.cache
+C:\Users\henri\Downloads\Tarefas_LPR-main\Tarefas_LPR-main\Tarefas_LPR\Aula5\Exercicio4\Soma\obj\Debug\net9.0\ref\Soma.dll
