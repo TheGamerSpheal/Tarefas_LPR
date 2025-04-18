@@ -58,7 +58,7 @@ class ProgramaMarvel {
         string h5Nome, int h5Pts,
         out int sel1, out int sel2, out int sel3
     ) {
-        Console.WriteLine("\nSelecione 3 heróis para sua equipe:");
+        Console.WriteLine("Selecione 3 heróis para sua equipe:");
         Console.WriteLine($"1 - {h1Nome} ({h1Pts} pts)");
         Console.WriteLine($"2 - {h2Nome} ({h2Pts} pts)");
         Console.WriteLine($"3 - {h3Nome} ({h3Pts} pts)");
@@ -93,7 +93,7 @@ class ProgramaMarvel {
         string h5Nome, string h5Poder, int h5Pts,
         int totalPts
     ) {
-        Console.WriteLine("\n--- Sua Equipe ---");
+        Console.WriteLine(" Sua Equipe ");
 
         void mostrar(int sel) {
             switch (sel) {
@@ -108,7 +108,7 @@ class ProgramaMarvel {
         mostrar(sel1);
         mostrar(sel2);
         mostrar(sel3);
-        Console.WriteLine($"Pontuação total da equipe: {totalPts}\n");
+        Console.WriteLine($"Pontuação total da equipe: {totalPts}");
     }
 
     static void menuPrincipal() {
@@ -122,11 +122,11 @@ class ProgramaMarvel {
         bool executando = true;
 
         while (executando) {
-            Console.WriteLine("\n=== MENU ===");
-            Console.WriteLine("1. Cadastrar Heróis");
-            Console.WriteLine("2. Selecionar Equipe");
-            Console.WriteLine("3. Exibir Equipe");
-            Console.WriteLine("0. Sair");
+            Console.WriteLine(" MENU ");
+            Console.WriteLine("1 - Cadastrar Heróis");
+            Console.WriteLine("2 - Selecionar Equipe");
+            Console.WriteLine("3 - Exibir Equipe");
+            Console.WriteLine("0 - Sair");
             Console.Write("Escolha uma opção: ");
             string opcao = Console.ReadLine();
 
